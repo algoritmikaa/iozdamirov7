@@ -1,0 +1,89 @@
+body {
+    font-family: sans-serif;
+      background-color: #0b132b
+}
+
+h2 {
+    text-align: center;
+    color: #ffd166;
+    border-bottom: 2px solid #3a86ff;
+    padding-bottom: 4px;
+}
+
+
+main img {
+    border: 3px solid rgb(85, 203, 226);
+    border-radius: 10px;
+    margin: 5px;
+}
+
+nav a {
+    background-color: #3a86ff;
+    text-decoration: none;
+    border: 1px solid rgb(138, 201, 220);
+    padding: 5px;
+    border-radius: 7px;
+    margin: 4px;
+    color: white;
+}
+
+nav {
+    background-color: #1c2541;
+    text-align: center;
+    border: 2px dashed  rgb(138, 201, 220);
+    padding: 15px;
+}
+
+.volk {
+    background-color: #ffd166;
+    border: 1px solid white;
+    color: black;
+}
+
+h1 {
+    color: #00b4d8;
+    text-align: center;
+}
+
+p {
+    color: #90e0ef;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.uio {
+    color: white;
+}
+
+main a {
+    background-color: rgb(242, 79, 79);
+    border: 2px solid #eded59;
+    padding: 13px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+footer {
+    border-top: 2px solid #00b4d8;
+    background-color: #1c2541;
+}
+
+header p {
+    font-size: 20px;
+}
+
+footer a {
+     color: #0015ff;
+}
+
+header {
+     background-color: #1c2541;
+}
+
+main {
+    text-align: center;
+}
